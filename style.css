@@ -1,0 +1,52 @@
+
+.navbar{
+    background-color: blue;
+}
+.nav-color{
+    color: antiquewhite;
+}
+.banner{
+    background-image: linear-gradient(to right, pink,aqua);
+}
+.headphone{
+    background-color:rgb(173, 194, 215) ;
+}
+.card-body{
+    background-color: rgb(237, 237, 237);
+}
+
+.discount{
+    background-color: rgb(149, 138, 212);
+}
+.footer{
+    background-color: rgb(14, 7, 27);
+}
+.featured-products {
+    height: 1000px;
+}
+.i-pad{
+    height: 300px;
+}
+.headphone {
+    height: 300px;
+}
+.macbook{
+    background-color: rgb(237, 237, 237);
+    height: 600px;
+}
+.slider-image
+{
+    width: 200px;
+}
+.discount-colour
+{
+    color: aliceblue;
+    font-weight: bold;
+}
+.service-colour
+{
+    color: antiquewhite;
+}
+.icon-color{
+    color: antiquewhite;
+}
